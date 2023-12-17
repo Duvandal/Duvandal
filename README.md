@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Duvandal
-- 👀 I’m interested in FullStack, and Python
-- 🌱 I’m currently learning VUE.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
